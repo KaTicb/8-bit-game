@@ -1,6 +1,3 @@
-//MOVEMENT --> WASD
-//SHOOT --> SPACE
-
 #include "Move.h"
 #include "Shoot.h"
 #include <list>
